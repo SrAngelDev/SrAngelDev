@@ -20,29 +20,29 @@
 
 ## 🛠️ Habilidades Técnicas
 
-**Lenguajes:**
-- JavaScript
-- HTML
-- CSS
-- SQL
-- Kotlin
+### Lenguajes:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Frameworks/Librerías:**
-- ESX
-- QBCORE
+### Frameworks/Librerías:
+![ESX](https://img.shields.io/badge/ESX-8A2BE2?style=for-the-badge&logoColor=white)
+![QBCORE](https://img.shields.io/badge/QBCORE-0000CD?style=for-the-badge&logoColor=white)
 
-**Bases de Datos:**
-- MySQL
-- MariaDB
+### Bases de Datos:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 
-**Herramientas y Plataformas:**
-- IntelliJ
-- DataGrip
-- HeidiSQL
-- Git
-- GitHub
-- Visual Studio Code
----
+### Herramientas y Plataformas:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ## 🚀 Proyectos Destacados
 
