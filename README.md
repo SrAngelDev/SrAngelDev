@@ -14,7 +14,7 @@
 
 🎨 **Creatividad:** Además del código, también disfruto del diseño, creando entornos inmersivos y visualmente atractivos para el mundo de FiveM (mapeados, retexturizacion, clothing, custom branding).
 
-🚀 **Objetivos:** Mi meta es convertirme en un desarrollador web full stack, capaz de dejar una pequeña huella en este mundo tan grande.
+🚀 **Objetivos:** Mi meta es convertirme en un desarrollador full stack, capaz de dejar una pequeña huella en este mundo tan grande.
 
 ---
 
