@@ -54,7 +54,6 @@
   - **SQL**: Sistema de gestión de bases de datos para almacenar y gestionar grandes volúmenes de datos de manera eficiente.
   - **JavaScript**: Lenguaje de programación versátil, utilizado para añadir interactividad y mejorar la funcionalidad de los entornos.
   - **HTML5 y CSS3**: Tecnologías fundamentales para el desarrollo web, utilizadas para estructurar y diseñar la interfaz de usuario.
-- **Objetivo:** Mi objetivo es diseñar y desarrollar ambientes inmersivos, funcionales y visualmente atractivos, que no solo cumplan con los requisitos del cliente, sino que también superen sus expectativas. Me esfuerzo por crear entornos que enriquezcan la jugabilidad y proporcionen una experiencia única y memorable.
 - **Estado:** He completado numerosos proyectos a lo largo de más de 4 años, cada uno de ellos adaptado a las necesidades específicas del cliente y continuamente mejorado a través del feedback recibido. Estos proyectos han abarcado desde pequeños scripts hasta la creación de mi propio servidor.
 
 ### 📱 Aplicación Web en Kotlin
