@@ -64,8 +64,8 @@
 
 ## 📊 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=merko)
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=merko)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=gruvbox)
+![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=gruvbox)
 
 ---
 
