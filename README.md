@@ -6,17 +6,21 @@
 
 ## Sobre mí
 
-🎓 Soy un apasionado estudiante de **Desarrollo de Aplicaciones Web** en mi primer año. Me encanta sumergirme en el mundo de la programación y descubrir nuevas tecnologías.
+¡Hola a todos! Soy Ángel, un entusiasta del desarrollo con una gran pasión por la tecnología y la creatividad. Actualmente, estoy cursando mi primer año de **Desarrollo de Aplicaciones Web**, donde estoy perfeccionando mis habilidades y explorando nuevas áreas del desarrollo.
 
-🌍 Vivo en Leganés, Comunidad de Madrid, España.
+🌍 **Ubicación:** Vivo en la vibrante ciudad de Leganés, en la Comunidad de Madrid, España. 
 
-📚 Siempre estoy aprendiendo y buscando formas de mejorar mis habilidades técnicas y creativas.
+💡 **Intereses:** Me encanta aprender y experimentar con nuevas tecnologías, especialmente en el ámbito del desarrollo web y la programación. Siempre estoy buscando desafíos que me permitan crecer y superarme dia a dia.
+
+🎨 **Creatividad:** Además del código, también disfruto del diseño, creando entornos inmersivos y visualmente atractivos para el mundo de FiveM.
+
+🚀 **Objetivos:** Mi meta es convertirme en un desarrollador web full stack, capaz de dejar una pequeña huella en este mundo tan grande.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-![FiveM](https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white) +4 años
+![FiveM](https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white)
 ![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,24 +36,23 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🚧 Proyecto en Progreso: [Nombre del Proyecto en Kotlin]
-- **Descripción:** Una aplicación web que estoy desarrollando utilizando Kotlin. Este proyecto tiene como objetivo mejorar mis habilidades en este lenguaje.
-- **Tecnologías Usadas:** Kotlin, HTML5, CSS3, JavaScript
-- **Objetivo:** Crear una aplicación robusta y eficiente que permita [descripción del objetivo].
-- **Progreso Actual:** Actualmente estoy trabajando en [descripción del progreso actual] y planeo agregar [próximos pasos].
-
 ### 🎨 Diseño de Entornos en FiveM
 - **Descripción:** Desarrollo de entornos personalizados para servidores de FiveM, utilizando LUA y otros recursos.
-- **Tecnologías Usadas:** FiveM, LUA, SQL, JS, HTML, CSS
+- **Tecnologías Usadas:** FiveM, LUA, SQL, JavaScript, HTML, CSS
 - **Objetivo:** Crear ambientes inmersivos y funcionales para mejorar la experiencia del usuario en servidores de FiveM.
 - **Estado:** Completado varios proyectos durante más de 4 años.
+
+### 📱 Aplicación Web en Kotlin
+- **Descripción:** Una aplicación web desarrollada en Kotlin para practicar y mejorar mis habilidades en este lenguaje.
+- **Tecnologías Usadas:** Kotlin, HTML5, CSS3, JavaScript
+- **Funcionalidades:** Implementación de funciones avanzadas y diseño responsivo.
+- **Estado:** En progreso.
 
 ---
 
 ## 📫 Cómo contactarme
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- [Correo Electrónico](mailto:tu-email@ejemplo.com)
+- [Correo Electrónico](mailto:angelsangas1@gmail.com)
 
 ---
 
