@@ -64,7 +64,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical)
+![Linguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=radical)
+
 
 ---
 
