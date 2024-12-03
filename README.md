@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ángel
 
-### 🌟 Estudiante de Desarrollo de Aplicaciones Web (DAW) | 1º Año 🌟
+### 🌟 Estudiante de Desarrollo de Aplicaciones Web (DAW) | 1º 🌟
 
 ---
 
