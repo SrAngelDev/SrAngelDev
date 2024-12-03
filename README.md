@@ -27,26 +27,25 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados Hasta La Fecha
 
 ### 🎨 Diseño de Entornos en FiveM
-- **Descripción:** Desarrollo de entornos personalizados para servidores de FiveM, utilizando LUA y otros recursos.
-- **Tecnologías Usadas:** FiveM, LUA, SQL, JavaScript, HTML, CSS
-- **Objetivo:** Crear ambientes inmersivos y funcionales para mejorar la experiencia del usuario en servidores de FiveM.
-- **Estado:** Completado varios proyectos durante más de 4 años.
+- **Descripción:** Desarrollo de entornos personalizados y altamente detallados para servidores de FiveM, utilizando las últimas técnicas y herramientas disponibles. Mi experiencia en LUA y otros lenguajes de programación me permite crear escenarios únicos y funcionales que mejoran significativamente la experiencia del usuario.
+- **Tecnologías Usadas:** 
+  - **FiveM**: Plataforma para personalizar y ampliar la funcionalidad de los servidores de GTA V.
+  - **LUA**: Lenguaje de programación ligero y fácil de integrar, ideal para la creación de scripts dinámicos.
+  - **SQL**: Sistema de gestión de bases de datos para almacenar y gestionar grandes volúmenes de datos de manera eficiente.
+  - **JavaScript**: Lenguaje de programación versátil, utilizado para añadir interactividad y mejorar la funcionalidad de los entornos.
+  - **HTML5 y CSS3**: Tecnologías fundamentales para el desarrollo web, utilizadas para estructurar y diseñar la interfaz de usuario.
+- **Objetivo:** Mi objetivo es diseñar y desarrollar ambientes inmersivos, funcionales y visualmente atractivos, que no solo cumplan con los requisitos del cliente, sino que también superen sus expectativas. Me esfuerzo por crear entornos que enriquezcan la jugabilidad y proporcionen una experiencia única y memorable.
+- **Estado:** He completado numerosos proyectos a lo largo de más de 4 años, cada uno de ellos adaptado a las necesidades específicas del cliente y continuamente mejorado a través del feedback recibido. Estos proyectos han abarcado desde pequeños scripts hasta complejos sistemas de gestión de servidores.
 
-### 📱 Aplicación Web en Kotlin
-- **Descripción:** Una aplicación web desarrollada en Kotlin para practicar y mejorar mis habilidades en este lenguaje.
-- **Tecnologías Usadas:** Kotlin, HTML5, CSS3, JavaScript
-- **Funcionalidades:** Implementación de funciones avanzadas y diseño responsivo.
-- **Estado:** En progreso.
 
 ---
 
