@@ -6,34 +6,46 @@
 
 ## Sobre mí
 
-¡Hola a todos! Soy Ángel, un entusiasta del desarrollo con una gran pasión por la tecnología y la creatividad. Actualmente, estoy cursando mi primer año de **Desarrollo de Aplicaciones Web**, donde estoy perfeccionando mis habilidades y explorando nuevas áreas del desarrollo.
+¡Hola a todos! Soy Ángel, un entusiasta del desarrollo web con una gran pasión por la tecnología y la creatividad. Actualmente, estoy cursando mi primer año de **Desarrollo de Aplicaciones Web**, donde estoy perfeccionando mis habilidades y explorando nuevas áreas del desarrollo.
 
-🌍 **Ubicación:** Leganés, en la Comunidad de Madrid, España. 
+🌍 **Ubicación:** Vivo en la vibrante ciudad de Leganés, en la Comunidad de Madrid, España.
 
-💡 **Intereses:** Me encanta aprender y experimentar con nuevas tecnologías, especialmente en el ámbito del desarrollo web y la programación. Siempre estoy buscando desafíos que me permitan crecer y superarme dia a dia.
+💡 **Intereses:** Me encanta aprender y experimentar con nuevas tecnologías, especialmente en el ámbito del desarrollo web y la programación. Siempre estoy buscando desafíos que me permitan crecer y superarme.
 
-🎨 **Creatividad:** Además del código, también disfruto del diseño, creando entornos inmersivos y visualmente atractivos para el mundo de FiveM (mapeados, retexturizacion, clothing, custom branding).
+🎨 **Creatividad:** Además del código, también disfruto del diseño, creando entornos inmersivos y visualmente atractivos para usuarios de todo el mundo.
 
-🚀 **Objetivos:** Mi meta es convertirme en un desarrollador full stack, capaz de dejar una pequeña huella en este mundo tan grande.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-![FiveM](https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white)
-![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🚀 **Objetivos:** Mi meta es convertirme en un desarrollador full stack, es decir, ser un 4x4 en este mundillo.
 
 ---
 
-## 🚀 Proyectos Destacados Hasta La Fecha
+## 🛠️ Habilidades Técnicas
+
+**Lenguajes:**
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Kotlin
+
+**Frameworks/Librerías:**
+- ESX
+- QBCORE
+
+**Bases de Datos:**
+- MySQL
+- MariaDB
+
+**Herramientas y Plataformas:**
+- IntelliJ
+- DataGrip
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Docker
+---
+
+## 🚀 Proyectos Destacados
 
 ### 🎨 Diseño de Entornos en FiveM
 - **Descripción:** Desarrollo de entornos personalizados y altamente detallados para servidores de FiveM, utilizando las últimas técnicas y herramientas disponibles. Mi experiencia en LUA y otros lenguajes de programación me permite crear escenarios únicos y funcionales que mejoran significativamente la experiencia del usuario.
@@ -43,13 +55,39 @@
   - **SQL**: Sistema de gestión de bases de datos para almacenar y gestionar grandes volúmenes de datos de manera eficiente.
   - **JavaScript**: Lenguaje de programación versátil, utilizado para añadir interactividad y mejorar la funcionalidad de los entornos.
   - **HTML5 y CSS3**: Tecnologías fundamentales para el desarrollo web, utilizadas para estructurar y diseñar la interfaz de usuario.
+- **Objetivo:** Mi objetivo es diseñar y desarrollar ambientes inmersivos, funcionales y visualmente atractivos, que no solo cumplan con los requisitos del cliente, sino que también superen sus expectativas. Me esfuerzo por crear entornos que enriquezcan la jugabilidad y proporcionen una experiencia única y memorable.
 - **Estado:** He completado numerosos proyectos a lo largo de más de 4 años, cada uno de ellos adaptado a las necesidades específicas del cliente y continuamente mejorado a través del feedback recibido. Estos proyectos han abarcado desde pequeños scripts hasta la creación de mi propio servidor.
+
+### 📱 Aplicación Web en Kotlin
+- **Estado:** En progreso.
 
 ---
 
-## 📫 Cómo contactarme
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contáctame
 
 - [Correo Electrónico](mailto:angelsangas1@gmail.com)
+
+---
+
+## 🎓 Educación
+
+**Ies Luis Vives**
+- **Título:** Desarrollo de Aplicaciones Web
+- **Fecha de graduación:** ESTUDIANDO ACTUALMENTE
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** Nativo
+- **Inglés:** Avanzado
+- **Francés:** Básico
 
 ---
 
