@@ -6,11 +6,11 @@
 
 ## Sobre mí
 
-¡Hola a todos! Soy Ángel, un entusiasta del desarrollo web con una gran pasión por la tecnología y la creatividad. Actualmente, estoy cursando mi primer año de **Desarrollo de Aplicaciones Web**, donde estoy perfeccionando mis habilidades y explorando nuevas áreas del desarrollo.
+¡Hola a todos! Soy Ángel, un entusiasta del desarrollo con una gran pasión por la tecnología y la creatividad. Actualmente, estoy cursando mi primer año de **Desarrollo de Aplicaciones Web**, donde estoy perfeccionando mis habilidades y explorando nuevas áreas del desarrollo.
 
-🌍 **Ubicación:** Vivo en la vibrante ciudad de Leganés, en la Comunidad de Madrid, España.
+🌍 **Ubicación:** Comunidad de Madrid, España.
 
-💡 **Intereses:** Me encanta aprender y experimentar con nuevas tecnologías, especialmente en el ámbito del desarrollo web y la programación. Siempre estoy buscando desafíos que me permitan crecer y superarme.
+💡 **Intereses:** Me encanta aprender y experimentar con nuevas tecnologías, especialmente en el ámbito del desarrollo y la programación. Siempre estoy buscando desafíos que me permitan crecer y superarme.
 
 🎨 **Creatividad:** Además del código, también disfruto del diseño, creando entornos inmersivos y visualmente atractivos para usuarios de todo el mundo.
 
