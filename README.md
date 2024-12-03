@@ -45,7 +45,6 @@
   - **HTML5 y CSS3**: Tecnologías fundamentales para el desarrollo web, utilizadas para estructurar y diseñar la interfaz de usuario.
 - **Estado:** He completado numerosos proyectos a lo largo de más de 4 años, cada uno de ellos adaptado a las necesidades específicas del cliente y continuamente mejorado a través del feedback recibido. Estos proyectos han abarcado desde pequeños scripts hasta la creación de mi propio servidor.
 
-
 ---
 
 ## 📫 Cómo contactarme
