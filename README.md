@@ -38,6 +38,7 @@
 **Herramientas y Plataformas:**
 - IntelliJ
 - DataGrip
+- HeidiSQL
 - Git
 - GitHub
 - Visual Studio Code
