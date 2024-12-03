@@ -78,7 +78,7 @@
 
 ## 🎓 Educación
 
-**Ies Luis Vives**
+**IES Luis Vives**
 - **Título:** Desarrollo de Aplicaciones Web
 - **Fecha de graduación:** ESTUDIANDO ACTUALMENTE
 
