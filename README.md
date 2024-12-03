@@ -42,8 +42,6 @@
 - Git
 - GitHub
 - Visual Studio Code
-- Postman
-- Docker
 ---
 
 ## 🚀 Proyectos Destacados
