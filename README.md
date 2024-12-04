@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-0000CD?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Frameworks/Librerías:
 ![ESX](https://img.shields.io/badge/ESX-8A2BE2?style=for-the-badge&logo=lua&logoColor=white)
