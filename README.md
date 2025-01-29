@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ángel Rangel 
+# 👋 ¡Hola! Soy Ángel 
 
 ### 🚀 **Desarrollador Full Stack en Formación** | **Estudiante de DAW (1º)**  
 📍 **Madrid, España** | 📧 [Contacto](mailto:srangeldev@gmail.com)  
