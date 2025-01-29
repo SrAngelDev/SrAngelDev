@@ -26,9 +26,8 @@ Desarrollador apasionado por crear soluciones tecnológicas **robustas** y **cen
 ![Lua](https://img.shields.io/badge/Lua-Experto-2C2D72?style=flat&logo=lua&logoColor=white)
 
 ### **Ecosistemas/Frameworks**  
-![FiveM](https://img.shields.io/badge/FiveM-Desarrollo_de_Mods-8A2BE2?style=flat&logo=gta&logoColor=white)  
+![FiveM](https://img.shields.io/badge/FiveM-Desarrollo_de_Scripts-8A2BE2?style=flat&logo=gta&logoColor=white)  
 ![ESX/QBCore](https://img.shields.io/badge/ESX/QBCore-Frameworks-0000CD?style=flat&logo=lua&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### **Entornos de Desarrollo**  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Full_Stack-000000?style=flat&logo=intellij-idea&logoColor=white)
