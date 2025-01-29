@@ -81,4 +81,4 @@ Desarrollador apasionado por crear soluciones tecnológicas **robustas** y **cen
 
 ---
 
-> 🚀 **"El software es un gran combinación entre arte e ingeniería"** - Bill Gates  
+> 🚀 **"Tus clientes más insatisfechos son tu mayor fuente de aprendizaje."** - Bill Gates  
