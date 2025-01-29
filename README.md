@@ -6,12 +6,26 @@
 ---
 
 ## 📌 **Perfil Técnico**  
-Desarrollador apasionado por crear soluciones tecnológicas **robustas** y **centradas en el usuario**. Con experiencia práctica en desarrollo full-stack y scripting avanzado para entornos personalizados. Destaco por mi capacidad para combinar **lógica estructurada** con **diseño intuitivo**, asegurando experiencias digitales fluidas.  
+**Desarrollador Full Stack en formación** con enfoque en la creación de soluciones tecnológicas robustas y centradas en el usuario. Actualmente potenciando mis habilidades en:
 
+⚡ **Stack principal de aprendizaje:**  
+- Frontend: (en proceso)
+- Backend: Kotlin
+- DevOps: (en proceso)  
+
+🔍 **Enfoque actual:**  
+- Dominio de arquitecturas MVC
+- Prácticas de Clean Code
+ 
 **Valor diferencial:**  
 ✅ Especialización en arquitecturas modulares para FiveM (GTA V RP)  
 ✅ Enfoque en código limpio y documentación detallada  
-✅ Compromiso con el aprendizaje continuo y adopción de buenas prácticas  
+✅ Compromiso con el aprendizaje continuo y adopción de buenas prácticas 
+
+🚧 **En proceso de mastery:**  
+- Patrones de diseño avanzados  
+- Optimización de rendimiento web
+- Pruebas unitarias
 
 ---
 
