@@ -1,96 +1,85 @@
-# 👋 ¡Hola! Soy Ángel 
+# 👋 ¡Hola! Soy Ángel Sánchez 
 
 ### 🚀 **Desarrollador Full Stack en Formación** | **Estudiante de DAW (1º)**  
-📍 **Madrid, España** | 📧 [Contacto](mailto:srangeldev@gmail.com)  
+📍 **Madrid, España** | 📧 [Contacto](mailto:srangeldev@gmail.com) | 💼 [GitHub](https://github.com/SrAngelDev)  
 
 ---
 
 ## 📌 **Perfil Técnico**  
-Apasionado por el desarrollo de software con enfoque en **tecnologías web** y **creación de experiencias interactivas**. Combinando creatividad y lógica para construir soluciones innovadoras.  
+Desarrollador apasionado por crear soluciones tecnológicas **robustas** y **centradas en el usuario**. Con experiencia práctica en desarrollo full-stack y scripting avanzado para entornos personalizados. Destaco por mi capacidad para combinar **lógica estructurada** con **diseño intuitivo**, asegurando experiencias digitales fluidas.  
 
-🔍 **Enfoque actual:**  
-- Dominio de tecnologías frontend y backend.  
-- Desarrollo de aplicaciones web escalables.  
-- Scripting avanzado para entornos personalizados (FiveM).  
-
----
-
-## 🛠️ **Tecnologías y Herramientas**  
-
-### **Lenguajes Principales**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-
-### **Frameworks y Plataformas**  
-![FiveM](https://img.shields.io/badge/FiveM-8A2BE2?style=flat&logo=gta&logoColor=white)
-![ESX](https://img.shields.io/badge/ESX-Framework-8A2BE2?style=flat&logo=lua&logoColor=white)
-![QBCore](https://img.shields.io/badge/QBCore-Framework-0000CD?style=flat&logo=lua&logoColor=white)
-
-### **Bases de Datos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-
-### **Herramientas de Desarrollo**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Valor diferencial:**  
+✅ Especialización en arquitecturas modulares para FiveM (GTA V RP)  
+✅ Enfoque en código limpio y documentación detallada  
+✅ Compromiso con el aprendizaje continuo y adopción de buenas prácticas  
 
 ---
 
-## 🌟 **Proyectos Destacados**  
+## 🛠️ **Stack Tecnológico**  
 
-### 1. **Desarrollo de Entornos en FiveM**  
-🕹️ **Plataforma:** Grand Theft Auto V Multiplayer  
-✅ **Logros:**  
-- Scripting avanzado en Lua para personalización de servidores.  
-- Integración de bases de datos SQL para gestión de datos en tiempo real.  
-- Creación de interfaces interactivas con HTML/CSS/JavaScript.  
+### **Lenguajes y Herramientas**  
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermedio-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Experto-2C2D72?style=flat&logo=lua&logoColor=white)
 
-🔗 **Tecnologías:** `FiveM` `Lua` `MySQL` `JavaScript`  
+### **Ecosistemas/Frameworks**  
+![FiveM](https://img.shields.io/badge/FiveM-Desarrollo_de_Mods-8A2BE2?style=flat&logo=gta&logoColor=white)  
+![ESX/QBCore](https://img.shields.io/badge/ESX/QBCore-Frameworks-0000CD?style=flat&logo=lua&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### **Entornos de Desarrollo**  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Full_Stack-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor_Principal-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 2. **Aplicación Web en Kotlin (En desarrollo)**  
-🚀 **Objetivo:** Plataforma full stack para gestión de proyectos.  
-🔧 **Stack técnico:**  
-- Backend: Kotlin + Spring Boot.  
-- Frontend: React.js + TypeScript.  
-- Base de datos: PostgreSQL.  
+## 🌟 **Proyectos Relevantes**  
+
+### 1. **Sistema de Gestión de Jugadores - FiveM**  
+**Desarrollo en el mundo de GTA V Roleplay (2018 hasta 2023)**  
+▶️ Desarrollo completo de módulo para servidor con 500+ usuarios diarios.  
+✅ **Logros clave:**  
+- Trabajar para una de las mejores empresas de Scripts de FiveM.  
+- Optimización al 100% de todos los scripts desarrollados por mi.
+- Integracion de scripts multinivel para afeccion a nivel servidor.  
 
 ---
 
-## 📊 **Métricas de GitHub**  
+## 📊 **Contribuciones Técnicas**  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=radical&hide_border=true&exclude_repo=archive"/>
 </div>
 
 ---
 
-## 📚 **Formación Académica**  
-**🎓 IES Luis Vives**  
-*Desarrollo de Aplicaciones Web (2023 - Actualidad)*  
-- Módulos destacados: Programación, Bases de Datos, Entornos de Desarrollo.  
+## 📚 **Formación Continua**  
+- **Cursos Activos:**  
+  ▶️ Kotlin Certified (Jetbrains) 
 
 ---
 
-## 🌍 **Idiomas**  
-- **Español**: Nativo  
-- **Inglés**: Avanzado (B2)   
+## 🌐 **Idiomas**  
+- **Español**: Nativo   
+- **Inglés**: Avanzado (B2 Cambridge)   
 
 ---
 
-## 📬 **¡Trabajemos Juntos!**  
-Si buscas un desarrollador comprometido, creativo y con hambre de aprender:  
-👉 [Envíame un correo](mailto:srangeldev@gmail.com)  
-👉 Conéctate en [GitHub](https://github.com/SrAngelDev)  
+## 📬 **Colaboración y Contacto**  
+¿Buscas un desarrollador comprometido con la excelencia técnica?  
+
+📩 **Contáctame para:**  
+- Colaboraciones técnicas  
+- Oportunidades de aprendizaje  
+- Proyectos innovadores  
+
+👉 **Medios de contacto:**  
+[Email](mailto:srangeldev@gmail.com) | [GitHub](https://github.com/SrAngelDev)  
 
 ---
 
-✨ **"La innovación distingue a un líder de un seguidor."** — Steve Jobs  
+> 🚀 **"El software es un gran combinación entre arte e ingeniería"** - Bill Gates  
