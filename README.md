@@ -9,13 +9,15 @@
 **Desarrollador Full Stack en formación** con enfoque en la creación de soluciones tecnológicas robustas y centradas en el usuario. Actualmente potenciando mis habilidades en:
 
 ⚡ **Stack principal de aprendizaje:**  
-- Frontend: (en proceso)
-- Backend: Kotlin
+- Frontend: HTML, CSS, JS, (en proceso)
+- Backend: Kotlin, (en proceso)
 - DevOps: (en proceso)  
 
 🔍 **Enfoque actual:**  
 - Dominio de arquitecturas MVC
 - Prácticas de Clean Code
+- Aplicación de los principios SOLID
+- Aplicacion de patrones de diseño
  
 **Valor diferencial:**  
 ✅ Especialización en arquitecturas modulares para FiveM (GTA V RP)  
