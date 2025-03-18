@@ -80,7 +80,7 @@
 
 ## 🌐 **Idiomas**  
 - **Español**: Nativo   
-- **Inglés**: Avanzado (B2 Cambridge)   
+- **Inglés**: Avanzado (C1 Cambridge)   
 
 ---
 
