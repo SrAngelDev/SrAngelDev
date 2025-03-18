@@ -34,10 +34,10 @@
 ## 🛠️ **Stack Tecnológico**  
 
 ### **Lenguajes y Herramientas**  
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermedio-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermedio-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Intermedio-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Intermedio-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-Experto-2C2D72?style=flat&logo=lua&logoColor=white)
 
