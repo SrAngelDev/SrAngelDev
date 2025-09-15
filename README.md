@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Ángel Sánchez
 
-### 🚀 **Desarrollador Full Stack en Formación** | **Estudiante de DAW (2º)**
+![Imagen](./banner.png)
+
+### 🚀 **Desarrollador de Software Full Stack en Formación** | **Estudiante de DAW (2º)**
 
 📍 **Madrid, España** | 📧 [Contacto](mailto:srangeldev@gmail.com) | 💼 [GitHub](https://github.com/SrAngelDev)
 
