@@ -83,12 +83,13 @@
 
 ### 2. **Aplicaciones Empresariales en OriginPath (FCT – 1º DAW)**
 
-**Prácticas profesionales en empresa tecnológica (2024)**
+**Prácticas profesionales en empresa tecnológica (2025)**
 ▶️ Desarrollo de aplicaciones internas usando **C# (.NET)** y **Angular**.
 ✅ **Logros clave:**
 
 * Creación de componentes reutilizables en Angular para mejorar la UI/UX.
 * Implementación de servicios backend en **C#** conectados a SQL Server.
+* Prácicas de depuración de código.
 * Uso de **APIs REST** y consumo desde Angular.
 * Aplicación de control de versiones con **Git** en entornos colaborativos.
 * Introducción a **pruebas unitarias** y buenas prácticas de documentación.
