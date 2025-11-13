@@ -16,8 +16,9 @@
 
 * **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular
 * **Backend:** Kotlin, Java, C#
-* **Bases de Datos:** MySQL, SQL Server
+* **Bases de Datos:** MySQL, SQL Server, MongDB
 * **DevOps:** Docker, AWS, Git, Gradle
+* **Frameworks:** Angular, BootStrap, Astro, SpringBoot, TailwindCSS
 
 🔍 **Enfoque actual:**
 
