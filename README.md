@@ -30,12 +30,12 @@
 
 **Valor diferencial:**
 
-* ✅ Experiencia real con **C# y Angular en proyectos de empresa** durante mis FCT de 1º en **OriginPath**.
+* ✅ Experiencia real con **C# y Angular en proyectos de empresa** durante mis FCT de 1º.
 * ✅ Práctica temprana: profundizar en tecnologías más allá de lo académico.
 * ✅ Enfoque en código limpio, documentación detallada y testing.
 * ✅ Compromiso con el aprendizaje continuo y adopción de buenas prácticas.
 
-🚧 **En proceso de mastery:**
+🚧 **En proceso:**
 
 * Patrones de diseño avanzados.
 * Optimización de rendimiento web.
@@ -50,12 +50,14 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermedio-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Avanzado-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-Intermedio-239120?style=flat\&logo=c-sharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermedio-007396?style=flat\&logo=java\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Intermedio-239120?style=flat\&logo=c-sharp\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Experto-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Experto-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermedio-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL_Server-Intermedio-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-Avanzado-2C2D72?style=flat\&logo=lua\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermedio-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 ### **Ecosistemas/Frameworks**
 
@@ -104,6 +106,10 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=radical&hide_border=true&exclude_repo=archive"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SrAngelDev/SrAngelDev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>  
 
 ---
@@ -111,9 +117,11 @@
 ## 📚 **Formación Continua**
 
 * **Cursos Activos:**
-  ▶️ Kotlin Certified (JetBrains)
-  ▶️ Angular Avanzado (independiente)
+  ▶️ Cursos en OpenWebinars.
   ▶️ Fundamentos de C# y .NET para Desarrollo Backend
+  ▶️ Java para Desarrolladores: De Cero a Experto
+  ▶️ Angular: De cero a experto en desarrollo frontend 
+  ▶️ Patrones de diseño y buenas prácticas en desarrollo de software
 
 ---
 
