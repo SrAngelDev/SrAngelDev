@@ -91,7 +91,7 @@
 
 ### 1. **Mi Trabajo Final de Grado - NexoPostal**
 
-**Plataforma integral de logística y paquetería nacional (2025)**
+**Plataforma integral de logística y paquetería nacional (2026)**
 ▶️ Arquitectura de microservicios con 3 SPAs Angular + 5 servicios .NET, bases de datos independientes y pipeline CI/CD completa.
 ✅ **Logros clave:**
 
@@ -107,7 +107,7 @@
 
 ### 2. **Modelado de Datos en BBVA**
 
-**Prácticas profesionales en sector financiero (2024)**
+**Prácticas profesionales en sector financiero (2026)**
 ▶️ Diseño y modelado de bases de datos para gestión de información financiera.
 ✅ **Logros clave:**
 
