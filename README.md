@@ -250,14 +250,14 @@ la infraestructura que lo sostiene.
 
 ## 📊 GitHub
 
-::: {align="center"}
-`<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>`{=html}
-`<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
-:::
+<div align="center">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SrAngelDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrAngelDev&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/SrAngelDev/SrAngelDev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />`{=html}
-:::
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SrAngelDev/SrAngelDev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</div>
 
 ------------------------------------------------------------------------
 
@@ -280,6 +280,6 @@ Stack, APIs, arquitectura y automatización.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
 ### `Build · Test · Deploy · Improve`
-:::
+</div>
