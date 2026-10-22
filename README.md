@@ -2,7 +2,7 @@
 
 ![Banner](./banner.png)
 
-### 💻 Full Stack Developer · Técnico Superior en Desarrollo de Aplicaciones Web
+### 📊 Data Engineer en NTT DATA · Desarrollo de software y soluciones de datos
 
 📍 Madrid, España · 📧 <srangeldev@gmail.com> · 🐙
 [GitHub](https://github.com/SrAngelDev)
@@ -11,31 +11,28 @@
 
 ## 👨‍💻 Sobre mí
 
+Actualmente trabajo como **Data Engineer en NTT DATA**, formando parte
+de un proyecto para **BBVA**. Es una nueva etapa profesional en el mundo
+del dato y la Inteligencia Artificial, y también la oportunidad de volver
+a un entorno que ya conozco por las prácticas que realicé allí.
+
 Soy **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y
-desarrollador Full Stack, con especial interés en **backend,
-arquitectura de software, APIs, microservicios y automatización**.
+desarrollador Full Stack. Mi experiencia previa con **Java/Spring Boot,
+C#/.NET y Angular**, APIs, microservicios y automatización me aporta una
+base sólida para seguir creciendo en ingeniería de datos.
 
-He trabajado con **Java/Spring Boot, C#/.NET y Angular**, además de
-desarrollar y desplegar proyectos completos utilizando **Docker, GitHub
-Actions, Nginx, PostgreSQL y CI/CD**. Durante mi formación he realizado
-experiencia profesional en **OriginPath** y **BBVA**, y actualmente
-continúo desarrollando productos propios y soluciones para empresas.
-
-Me gusta construir proyectos que no se queden únicamente en código:
-arquitectura, testing, bases de datos, despliegue, observabilidad y
-mantenimiento forman parte del proceso.
+Me gusta entender el ciclo completo de las soluciones: desde los datos y
+la arquitectura hasta el desarrollo, las pruebas, el despliegue y el
+mantenimiento.
 
 ### 🎯 Actualmente
 
--   Desarrollo de aplicaciones **Full Stack con Angular + .NET**.
--   Backend con **Java, Spring Boot, C# y ASP.NET Core**.
--   Diseño de **APIs REST, microservicios y arquitecturas
-    distribuidas**.
--   Testing con **JUnit, Mockito, xUnit, NUnit, Testcontainers y
-    Playwright**.
--   Contenedores y despliegues con **Docker, Docker Compose, Nginx y
-    GitHub Actions**.
--   Desarrollo de soluciones de automatización e IA aplicadas a negocio.
+-   Trabajo como **Data Engineer en NTT DATA**, en un proyecto para
+    **BBVA**.
+-   Enfocado en seguir creciendo en **ingeniería de datos e Inteligencia
+    Artificial**.
+-   Desarrollo proyectos de software con **Angular, .NET, Java y
+    Spring Boot**.
 -   Creación y evolución de **GasanzTech**, mi proyecto de software y
     automatización para empresas.
 
@@ -204,6 +201,12 @@ corporativas, sistemas de reserva y paneles administrativos.
 
 ## 💼 Experiencia
 
+### 📊 NTT DATA --- Data Engineer
+
+Trabajo como **Data Engineer** en un proyecto para **BBVA**, iniciando
+una nueva etapa profesional enfocada en el mundo del dato y la
+Inteligencia Artificial.
+
 ### 🏦 BBVA --- Prácticas DAW
 
 Experiencia en entorno financiero trabajando sobre **modelado y
@@ -270,9 +273,9 @@ la infraestructura que lo sostiene.
 
 ## 📫 Contacto
 
-Estoy abierto a **oportunidades profesionales, proyectos de desarrollo y
-colaboraciones técnicas** relacionadas con desarrollo backend, Full
-Stack, APIs, arquitectura y automatización.
+Estoy abierto a **colaboraciones técnicas e intercambio de ideas** sobre
+ingeniería de datos, desarrollo backend, Full Stack, APIs, arquitectura y
+automatización.
 
 📧 **Email:** <srangeldev@gmail.com>\
 🐙 **GitHub:** [github.com/SrAngelDev](https://github.com/SrAngelDev)\
